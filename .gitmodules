@@ -1,0 +1,3 @@
+[submodule "dont-ask-to-me"]
+	path = dont-ask-to-me
+	url = https://github.com/eastheat10/dont-ask-to-me.git
